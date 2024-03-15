@@ -6,7 +6,7 @@ import (
 	"time"
 	"github.com/superggfun/smoba/config"
 	"github.com/superggfun/smoba/doGift"
-	"github.com/superggfun/smoba/doTask"
+	"github.com/FengNning/smoba/doTask"
 	"github.com/superggfun/smoba/wxpush"
 	"github.com/leancloud/go-sdk/leancloud"
 )
